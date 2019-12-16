@@ -1,17 +1,2 @@
 name: propety.guide
-
-on: [push]
-
-jobs:
-  build:
-
-    runs-on: web
-
-    steps:
-    - uses: andreansalasa05@gmail.com
-    - name: andreansalasa
-      run: andrean Hello, world!
-    - name: andrean a multi-line script
-      run: |
-        echo Add other actions to build,
-        echo test, and deploy your project.
+<head> welcome to web browser. here are where you can find a best property that you want with the best prices, absolutly
